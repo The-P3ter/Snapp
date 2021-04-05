@@ -10,10 +10,10 @@ pip install requests
 ```
 ## How to use
 
-It's as eazy as drinking water jast run the exploit with the following command and enter the phone number...
+It's as eazy as drinking water jast clone the project and run the exploit with the following command and enter the phone number...
 ```bash
 python Snapp.py
 ```
-Enjoy :)
+Enjoye :)
 
 
