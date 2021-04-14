@@ -14,6 +14,4 @@ It's as eazy as drinking water jast clone the project and run the exploit with t
 ```bash
 python Snapp.py
 ```
-Enjoye :)
-
-
+Enjoy :)
